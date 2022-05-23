@@ -4,3 +4,4 @@ node js se ejecuta en un solo proceso, proceso de servidor, en la memoria
 *mi codigo es funcional? Funciona
 *mi código es óptimo?
 *mi código es testable? se puede hacer pruebas unitarias
+
